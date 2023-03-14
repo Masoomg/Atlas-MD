@@ -5,7 +5,7 @@ module.exports = {
   alias: ["mode", "botmode"],
   desc: "Change bot working mode to public/private",
   category: "Mods",
-  usage: "mode [public]",
+  usage: "mode [public/private]",
   react: "🎀",
   start: async (
     Miku,
